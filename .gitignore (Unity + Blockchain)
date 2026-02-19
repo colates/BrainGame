@@ -1,0 +1,28 @@
+# Unity
+/[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity WebGL
+[Oo]utput[Ww]eb[Gg]L[Ss]treams/
+
+# Packages
+/Packages/packages-lock.json
+
+# Blockchain (Node.js/Hardhat)
+node_modules/
+.env
+coverage/
+artifacts/
+cache/
+
+# OS
+.DS_Store
+Thumbs.db
+*.csproj
+*.unityproj
+*.sln
