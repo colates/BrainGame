@@ -1,6 +1,4 @@
 # BrainGame
-# My Avalanche Game
-
 A blockchain game built on Avalanche with NFT integration, smart contracts, and Web3 gameplay. Supports Unity/WebGL with MetaMask wallet connectivity. Features C# game logic and Solidity contracts [web:18][web:19].
 
 [![Status](https://img.shields.io/badge/status-in%20development-blue)](https://github.com/yourusername/your-game)
@@ -53,7 +51,7 @@ Fork, create `feature/xxx` branch, PR to `main`. Follow Unity Style Guide [web:7
 - Multiplayer via Avalanche Warp Messaging
 
 ## Team
-Gem Stoner — Developer (Krasnodar, Russia)
+colates — Developer (Russia)
 
 ## License
 MIT
