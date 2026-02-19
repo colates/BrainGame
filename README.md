@@ -1,4 +1,5 @@
-# BrainGame
+# My Avalanche Game
+
 A blockchain game built on Avalanche with NFT integration, smart contracts, and Web3 gameplay. Supports Unity/WebGL with MetaMask wallet connectivity. Features C# game logic and Solidity contracts [web:18][web:19].
 
 [![Status](https://img.shields.io/badge/status-in%20development-blue)](https://github.com/yourusername/your-game)
@@ -30,28 +31,5 @@ Demo: [WebGL build link]
 
 ## Development
 **Project Structure**:
-Assets/
-├── Scripts/ # C# gameplay
-├── Art/ # Sprites, Models
-├── Prefabs/
-├── Scenes/
-├── Web3/ # Blockchain scripts
-- Contracts: `cd contracts && npm install && npx hardhat compile`
-- Tests: `npx hardhat test`
 
-## Deployment
-- Unity: Build WebGL → itch.io/Vercel
-- Contracts: `npx hardhat run scripts/deploy.js --network fuji`
 
-## Contributing
-Fork, create `feature/xxx` branch, PR to `main`. Follow Unity Style Guide [web:7][web:21].
-
-## Roadmap
-- NFT minting integration
-- Multiplayer via Avalanche Warp Messaging
-
-## Team
-colates — Developer (Russia)
-
-## License
-MIT
